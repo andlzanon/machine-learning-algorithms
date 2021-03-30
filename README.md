@@ -4,11 +4,14 @@
 Repositório com algoritmos de Machine Learning implementados em Python (com Pytorch) para propósitos de aprendizado e reprodução com a utilização de cadernos Jupyter.
 
 ## Algoritmos Implementados
-1. [Regressão Logística para Classificação Multiclasse](https://github.com/andlzanon/machine-learning-algorithms/blob/main/Logisitc%20Regression%20Multiclass%20Classification.ipynb)
 
-2. [Rede Neural Artificial para Regressão](https://github.com/andlzanon/machine-learning-algorithms/blob/main/ANN%20Regression.ipynb)
+1. [Regressão Linear]()
 
-3. [Rede Neural Artificial para Classificação Binária](https://github.com/andlzanon/machine-learning-algorithms/blob/main/ANN%20Binary%20Classification.ipynb)
+2. [Regressão Logística para Classificação Multiclasse](https://github.com/andlzanon/machine-learning-algorithms/blob/main/Logisitc%20Regression%20Multiclass%20Classification.ipynb)
+
+3. [Rede Neural Artificial para Regressão](https://github.com/andlzanon/machine-learning-algorithms/blob/main/ANN%20Regression.ipynb)
+
+4. [Rede Neural Artificial para Classificação Binária](https://github.com/andlzanon/machine-learning-algorithms/blob/main/ANN%20Binary%20Classification.ipynb)
 
 ## Reprodução:
 1. Baixar o arquivo ou clonar o repositório;
