@@ -5,7 +5,7 @@ Repositório com algoritmos de Machine Learning implementados em Python (com Pyt
 
 ## Algoritmos Implementados
 
-1. [Regressão Linear]()
+1. [Regressão Linear](https://github.com/andlzanon/machine-learning-algorithms/blob/main/Linear%20Regression.ipynb)
 
 2. [Regressão Logística para Classificação Multiclasse](https://github.com/andlzanon/machine-learning-algorithms/blob/main/Logisitc%20Regression%20Multiclass%20Classification.ipynb)
 
