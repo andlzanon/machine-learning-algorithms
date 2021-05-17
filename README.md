@@ -13,6 +13,12 @@ Repositório com algoritmos de Machine Learning implementados em Python (com Pyt
 
 4. [Rede Neural Artificial para Classificação Binária](https://github.com/andlzanon/machine-learning-algorithms/blob/main/ANN%20Binary%20Classification.ipynb)
 
+5. [Algoritmos de Aprendizado por Reforço](https://github.com/andlzanon/machine-learning-algorithms/blob/main/Reinforcement%20Learning%20Algorithms.ipynb)
+    1. Random 
+    2. E-greedy
+    3. Upper Confidence Bound
+    4. Thompson Sampling
+
 ## Reprodução:
 1. Baixar o arquivo ou clonar o repositório;
 2. Criar uma pasta chamada datasets na pasta raiz do projeto com o dataset referenciado na primeira célula dos algoritmos implementados; 
